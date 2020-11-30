@@ -16,7 +16,7 @@ const setOfWords = [
 const msg = document.getElementById('msg');
 const typedWords = document.getElementById('myWords');
 const btn = document.getElementById('btn');
-
+typedWords.disabled = true;
 let startTime, endTime;
 // Start the time and print a random para on the screen
 const playGame = () => {
