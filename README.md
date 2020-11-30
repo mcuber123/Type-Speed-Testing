@@ -1,2 +1,3 @@
 # Type-Speed-Testing
-You can check your typing speed and accuracy here.
+Project to check your typing speed and accuracy.
+
